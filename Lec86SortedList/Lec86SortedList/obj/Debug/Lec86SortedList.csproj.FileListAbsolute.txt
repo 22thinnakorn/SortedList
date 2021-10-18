@@ -1,0 +1,15 @@
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\bin\Debug\Lec86SortedList.exe.config
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\bin\Debug\Lec86SortedList.exe
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\bin\Debug\Lec86SortedList.pdb
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList.csproj.AssemblyReference.cache
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\obj\Debug\MainWindow.g.cs
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\obj\Debug\App.g.cs
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList_MarkupCompile.cache
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList_MarkupCompile.lref
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\obj\Debug\MainWindow.baml
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList.g.resources
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList.Properties.Resources.resources
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList.csproj.GenerateResource.cache
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList.csproj.CoreCompileInputs.cache
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList.exe
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList.pdb
